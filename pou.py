@@ -138,6 +138,6 @@ for j in range(3):
     rodadinha += 2
     paulin.left(rodadinha)
     screen.bgcolor('#ff67a8')
-# Esssas são as cores dos papeis de parede do Pou, mas excluí o verde para não misturar com a tartaruga.
+# Essas são as cores dos papeis de parede do Pou, mas excluí o verde para não misturar com a tartaruga.
 screen.bgcolor('#fff')
 screen.mainloop()
